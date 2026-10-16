@@ -118,9 +118,6 @@ Coffee-Sales-Market-Analysis/
 ├── powerbi/           
 └── README.md
 ```
-
-*Adjust this structure to match the actual files and folders in the repository.*
-
 ## 🚀 How to Explore the Project
 
 1. Clone or download this repository.

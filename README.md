@@ -113,9 +113,9 @@ Coffee-Sales-Market-Analysis/
 ├── images/
 │   └── coffee-sales-dashboard.png
 │
-├── data/                 # Source data, if included
-├── sql/                  # SQL scripts, if organized separately
-├── powerbi/              # Power BI report, if included
+├── data/             
+├── sql/               
+├── powerbi/           
 └── README.md
 ```
 
